@@ -1,2 +1,2 @@
-# slouch-chat-commands
+# Slouch's-Chat-Commands (SCC)
 WIP project
